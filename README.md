@@ -18,3 +18,19 @@ Hi, I'm Davi Lima, a Full Stack Developer passionate about technology and Softwa
 
 ![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=davilima99&include_all_commits=true&show_icons=true&theme=radical)
 ![Davi GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davilima99&show_icons=true&layout=compact&theme=radical)
+
+<p align="center">
+  <a href="https://github.com/DaviLima99/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilima99&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/DaviLima99/convoychat">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=davilima99&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
