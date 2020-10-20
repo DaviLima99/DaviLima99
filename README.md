@@ -20,7 +20,7 @@ Hi, I'm Davi Lima, a Full Stack Developer passionate about technology and Softwa
   <a href="https://github.com/DaviLima99/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilima99&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilima99&layout=compact&count_private=true"
     />
   </a>
   <a href="https://github.com/DaviLima99/convoychat">
