@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/5U7.gif" width="90px">
+  <img src="wazup.gif" width="90px">
 </p>
 
 <p align="center">
@@ -33,10 +33,10 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
     <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=davilima99&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Github statistics" />
+       <img src="https://github-readme-stats.vercel.app/api?username=davilima99&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="Github statistics" />
     </p>
   <br>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davilima99&theme=tokyonight" alt="Most used technologies" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davilima99&theme=tokyonight&count_private=true" alt="Most used technologies" />
     </p>
 </details>
