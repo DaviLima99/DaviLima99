@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wazup.gif" width="90px">
+  <img src="wazup.gif" width="120px">
 </p>
 
 <p align="center">
