@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wazup.gif" width="90px">
+  <img src="wazup.gif" width="120px">
 </p>
 
 <p align="center">
@@ -15,28 +15,70 @@
     <i>📫 How to reach me:</i>
     <br/><br/>
     <a href="https://www.linkedin.com/in/davilima99/" target="_blank">
-      <img src="https://img.shields.io/badge/-Davi%20Lima-4D1EA7?logo=linkedin&style=flat-rounded&for-the-badge&logoColor=FFFFFF" alt="Bradge LinkedIn" />
+      <img src="https://img.shields.io/badge/-Davi%20Lima-4D1EA7?logo=linkedin&style=for-the-badge&logoColor=FFFFFF" alt="Bradge LinkedIn" />
     </a>
-   <a href="https://twitter.com/_davilima99" target="_blank">
-      <img src="https://img.shields.io/badge/-Davi%20Lima-4D1EA7?logo=twitter&style=flat-rounded&for-the-badge&logoColor=FFFFFF" alt="Bradge Twitter" />
-   </a>
 </p>
 
+
 <details>
-    <summary>Languages and Tools:</summary>
-    <br>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-    <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=davilima99&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="Github statistics" />
-    </p>
-  <br>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davilima99&theme=tokyonight&count_private=true" alt="Most used technologies" />
-    </p>
+  <summary>💻 Favorite techs</summary>
+
+<img src="https://img.shields.io/badge/-Javascript-4D1EA7?logo=javascript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-4D1EA7?logo=typescript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-4D1EA7?logo=node.js&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-React JS-4D1EA7?logo=react&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Nextjs-4D1EA7?logo=next.js&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-React Native-4D1EA7?logo=react&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Flutter-4D1EA7?logo=flutter&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Docker-4D1EA7?logo=docker&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-4D1EA7?logo=mongodb&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-My SQL-4D1EA7?logo=mysql&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-SQLite-4D1EA7?logo=sqlite&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-VS Code-4D1EA7?logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Linux-4D1EA7?logo=linux&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Windows-4D1EA7?logo=windows&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+
 </details>
+
+<details>
+  <summary>📃 My Resume</summary>
+
+
+## Education
+
+- 📖 **Computer Science**\
+📆 2017 - 2020\
+📍 **University Paulista UNIP** - São Paulo, Brazil
+
+## Experience
+
+
+- 👨‍💻 **Full-stack Developer**\
+📆 2020 - Moment\
+📍 **OSBR** - São Paulo, Brazil
+
+
+- 👨‍💻 **Full-stack Developer Intern**\
+📆 Jul 2018 - Aug 2019\
+📍 **Mediapost** - São Paulo, Brazil
+
+
+
+</details>
+
+  
+
+<!--
+**alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
