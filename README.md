@@ -1,15 +1,17 @@
-<p align="center">
-  <img src="wazup.gif" width="120px">
+<img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  🖖🏼 Hi, I'm Davi Lima, a Full Stack Developer passionate about technology and Software development, I'm from São Paulo, Brazil.
 </p>
 
-<p align="center">
-    <b>🖖🏼 Hi, I'm Davi Lima, a Full Stack Developer passionate about technology and Software development, I'm from São Paulo, Brazil.</b>
+<p align="left">
+  🦄 I’m currently working with Typescript, Node.js, ReactJS, React Native and Flutter
 </p>
 
-<p align="center">
-    <br>🌱 I’m currently learning Typescript, Node.js, ReactJS, React Native and flutter
+<p align='left'>
+  👨‍💻 Coding Activity<br/><br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DaviLima99&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
- 
 
 <p align="center">
     <i>📫 How to reach me:</i>
@@ -22,7 +24,7 @@
 
 <details>
   <summary>💻 Favorite techs</summary>
-
+<br/>
 <img src="https://img.shields.io/badge/-Javascript-4D1EA7?logo=javascript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-4D1EA7?logo=typescript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-4D1EA7?logo=node.js&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
