@@ -10,7 +10,7 @@
 
 <p align='left'>
   👨‍💻 Coding Activity<br/><br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DaviLima99&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DaviLima99&show_icons=true&count_private=true&theme=dark&title_color=4D1EA7" width="350"></a>
 </p>
 
 <p align="center">
