@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/-Javascript-4D1EA7?logo=javascript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-4D1EA7?logo=typescript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-4D1EA7?logo=node.js&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Java-4D1EA7?logo=java&style=for-the-badge&logoColor=white" alt="Bradge Java" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Spring-4D1EA7?logo=spring&style=for-the-badge&logoColor=white" alt="Bradge Java" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React JS-4D1EA7?logo=react&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Nextjs-4D1EA7?logo=next.js&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React Native-4D1EA7?logo=react&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
