@@ -4,10 +4,6 @@
   🖖🏼 Hi, I'm Davi Lima, a Full Stack Developer passionate about technology and Software development, I'm from São Paulo, Brazil.
 </p>
 
-<p align="left">
-  🦄 I’m currently working with Typescript, Node.js, ReactJS, React Native and Flutter
-</p>
-
 <p align='left'>
   👨‍💻 Coding Activity<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DaviLima99&show_icons=true&count_private=true&theme=dark&title_color=4D1EA7" width="350"></a>
