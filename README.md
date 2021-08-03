@@ -55,7 +55,7 @@
 
 - 👨‍💻 **Back-end Developer**\
 📆 2021 - Moment\
-📍 **Compasso UOl** - São Paulo, Brazil
+📍 **Compasso UOL** - São Paulo, Brazil
 
 - 👨‍💻 **Full-stack Developer**\
 📆 2020 - 2021\
