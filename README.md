@@ -53,8 +53,12 @@
 ## Experience
 
 
+- 👨‍💻 **Back-end Developer**\
+📆 2021 - Moment\
+📍 **Compasso UOl** - São Paulo, Brazil
+
 - 👨‍💻 **Full-stack Developer**\
-📆 2020 - Moment\
+📆 2020 - 2021\
 📍 **OSBR** - São Paulo, Brazil
 
 
