@@ -53,8 +53,12 @@
 ## Experience
 
 
-- 👨‍💻 **Back-end Developer**\
-📆 2021 - Moment\
+- 👨‍💻 **Software Engineer**\
+📆 Nov 2021 - Moment\
+📍 **Itaú Unibanco** - São Paulo, Brazil
+  
+- 👨‍💻 **Software Engineer**\
+📆 Jun 2021 - Oct 2021\
 📍 **Compasso UOL** - São Paulo, Brazil
 
 - 👨‍💻 **Full-stack Developer**\
