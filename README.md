@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-    <i>📫 How to reach me:</i>
     <br/><br/>
     <a href="https://www.linkedin.com/in/davilima99/" target="_blank">
       <img src="https://img.shields.io/badge/-Davi%20Lima-4D1EA7?logo=linkedin&style=for-the-badge&logoColor=FFFFFF" alt="Bradge LinkedIn" />
