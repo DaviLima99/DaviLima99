@@ -20,6 +20,7 @@
 <details>
   <summary>💻 Favorite techs</summary>
 <br/>
+<img src="https://img.shields.io/badge/-Python-4D1EA7?logo=python&style=for-the-badge&logoColor=white" alt="Bradge Python" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Javascript-4D1EA7?logo=javascript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-4D1EA7?logo=typescript&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-4D1EA7?logo=node.js&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
@@ -33,6 +34,7 @@
 <img src="https://img.shields.io/badge/-MongoDB-4D1EA7?logo=mongodb&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-My SQL-4D1EA7?logo=mysql&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-SQLite-4D1EA7?logo=sqlite&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-AWS-4D1EA7?logo=amazon-aws&style=for-the-badge&logoColor=white" alt="Bradge AWS" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-VS Code-4D1EA7?logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Linux-4D1EA7?logo=linux&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Windows-4D1EA7?logo=windows&style=for-the-badge&logoColor=white" alt="Bradge Javascript" />&nbsp;&nbsp;
@@ -47,7 +49,7 @@
 
 - 📖 **Computer Science**\
 📆 2017 - 2020\
-📍 **University Paulista UNIP** - São Paulo, Brazil
+📍 **Universidade Paulista UNIP** - São Paulo, Brazil
 
 ## Experience
 
